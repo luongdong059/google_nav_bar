@@ -20,7 +20,7 @@ class GButton extends StatefulWidget {
   final double? iconSize;
   final Function? onPressed;
   final String text;
-  final IconData icon;
+  final Widget icon;
   final Color? backgroundColor;
   final Duration? duration;
   final Curve? curve;
